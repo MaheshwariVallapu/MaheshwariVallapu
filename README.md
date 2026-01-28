@@ -11,27 +11,105 @@ I specialize in building **scalable Spring Boot microservices**, **secure REST A
 
 ## 🧰 Core Tech Stack
 
-### Backend
+**Programming Languages**
 
-* Java, Spring Boot, Spring MVC, Spring Security
-* Microservices, REST APIs, JPA/Hibernate
-* Apache Kafka, ActiveMQ, RabbitMQ
+Java, JavaScript, SQL, PL/SQL
 
-### Frontend
+Familiar with Python for scripting and automation
 
-* React (Hooks, Redux, Context API)
-* Angular, HTML5, CSS3, Bootstrap
+**Backend Technologies**
 
-### Databases
+Spring Boot, Spring MVC, Spring Security
 
-* PostgreSQL, Oracle, MySQL
-* MongoDB, Cassandra
+Spring Data JPA, Hibernate, Spring WebFlux
 
-### Cloud & DevOps
+RESTful APIs, Microservices, JAX-RS
 
-* AWS, Azure, GCP
-* Docker, Kubernetes
-* Jenkins, GitHub Actions, CI/CD
+Node.js, Express.js
+
+**Frontend Technologies**
+
+ReactJS (Hooks, Redux, Context API)
+
+Angular (Services, Routing, State Management)
+
+VueJS, Backbone.js
+
+HTML5, CSS3, Bootstrap, AJAX, JSON
+
+**Messaging & Event Streaming**
+
+Apache Kafka
+
+ActiveMQ, RabbitMQ
+
+**Databases**
+
+PostgreSQL, Oracle, MySQL, SQL Server
+
+MongoDB, Cassandra
+
+Strong experience in schema design, query optimization, and performance tuning
+
+**Cloud Platforms**
+
+AWS (EC2, S3, Lambda, IAM, KMS, Glue, CloudWatch, EKS)
+
+Microsoft Azure
+
+Google Cloud Platform (GCP)
+
+**DevOps & CI/CD**
+
+Docker, Kubernetes
+
+Jenkins, GitHub Actions, GitLab CI
+
+Blue-green deployments
+
+Infrastructure as Code: Terraform, AWS CloudFormation
+
+**Testing**
+
+JUnit, Mockito
+
+Jest, Selenium
+
+Strong background in Test-Driven Development (TDD)
+
+**Logging & Monitoring**
+
+Log4J, SLF4J
+
+Prometheus, ELK Stack
+
+Amazon CloudWatch
+
+**Software Development Practices**
+
+Agile, Scrum
+
+SDLC
+
+Performance optimization (caching, async processing, DB tuning)
+
+ETL pipelines & long-running workflow orchestration (Temporal-style patterns)
+
+**Tools & Platforms**
+
+Git
+
+Maven, Gradle, Postman
+
+JIRA, VersionOne, Confluence
+
+Excel VBA (legacy modernization)
+
+**Security & Design**
+
+JWT, OAuth2, Role-Based Access Control (RBAC)
+
+Design Patterns: MVC, MVVM, MVP, Singleton
 
 ---
 
