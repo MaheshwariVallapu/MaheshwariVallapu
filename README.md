@@ -35,7 +35,7 @@ I specialize in building **scalable Spring Boot microservices**, **secure REST A
 
 ---
 
-## 💼 Experience-Based Projects (Enterprise Simulations)
+## 💼 Experience-Based Projects
 
 > The repositories below are **hands-on, enterprise-style implementations** inspired by real projects I’ve worked on.
 > They demonstrate **architecture, patterns, and technical depth** — no proprietary or client code.
