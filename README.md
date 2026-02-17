@@ -196,7 +196,7 @@ Design Patterns: MVC, MVVM, MVP, Singleton
 * 🌐 **Portfolio:** [https://maheshwarivallapu.github.io/Maheshwari_Vallapu_Portfolio/](https://maheshwarivallapu.github.io/Maheshwari_Vallapu_Portfolio/)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/maheshwari-vallapu-86b0641b1/](https://www.linkedin.com/in/maheshwari-vallapu-86b0641b1/)
 * 💻 **GitHub:** [https://github.com/MaheshwariVallapu](https://github.com/MaheshwariVallapu)
-* ✍️ **Medium:** [https://medium.com/@maheshwarimahi1005](https://medium.com/@maheshwarimahi1005)
+* ✍️ **Medium:** [https://medium.com/@maheshwarimahi9949](https://medium.com/@maheshwarimahi9949)
 
 ---
 
